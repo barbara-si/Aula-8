@@ -295,3 +295,4 @@ botao9.addEventListener("click", function() {
 
     resultado.textContent = codificado
 })
+
